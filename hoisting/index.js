@@ -1,0 +1,1 @@
+//El hoisting en JavaScript es un comportamiento que permite utilizar funciones y variables antes de que se declaren. Este concepto se refiere a cómo JavaScript "eleva" las declaraciones a la parte superior de su ámbito antes de la ejecución del código.
